@@ -8,10 +8,6 @@
 - AI/ML with Python
 - Systems programming with C++
 
-🔭 I’m working on:
-- 🚀 RealismStudio: A 3D collaboration platform for architects and engineers
-- 📈 A sales forecasting SaaS platform using ML and LLMs
-
 💡 I like building tools that solve real-world problems and make life easier.
 
 📫 How to reach me:  
