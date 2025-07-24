@@ -12,7 +12,6 @@
 
 📫 How to reach me:  
 - Email: `mugwadiinnocent@gmail.com`  
-- LinkedIn: [linkedin.com/in/innocentmugwadi](https://linkedin.com/in/innocentmugwadi)
 
 ⚡ Fun fact: I believe tech is the most powerful superpower we can learn.
 
