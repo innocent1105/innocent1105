@@ -4,7 +4,7 @@
 
 <br/>
 
-**🌍 Lusaka, Zambia** | **💼 CEO @ Cynite Technologies** | **🚀 AI + SaaS**
+**🌍 Lusaka, Zambia** | **🚀 AI + SaaS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x)](https://twitter.com/imugwadi)
@@ -20,14 +20,13 @@
 I engineer **intelligent, revenue-generating software** that solves real business problems. My focus: offline-first AI systems, SaaS products, and financial inclusion solutions for Africa.
 
 **Current obsessions:**
-- 🤖 Production-grade AI applications (local inference, RAG, LLMs)
 - 📊 Data-driven analytics & forecasting platforms  
 - 💰 SaaS products generating actual revenue
 - 🌍 Technology for underserved markets
 
 ---
 
-## 🏢 Cynite Technologies — Current Portfolio
+## Current Portfolio
 
 | **Project** | **Status** | **What It Does** |
 |---|---|---|
