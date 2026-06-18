@@ -26,15 +26,6 @@ I engineer **intelligent, revenue-generating software** that solves real busines
 
 ---
 
-## Current Portfolio
-
-| **Project** | **Status** | **What It Does** |
-|---|---|---|
-| **Lucid AI** | 🟢 Active | Offline-first AI assistant with local ONNX inference, RAG retrieval, and intent classification |
-| **Precision AI** | 🟢 Beta | AI-powered business intelligence & analytics dashboard |
-| **ForecastIQ** | 🟡 In Progress | Sales forecasting & timeseries analysis platform |
-| **Healthcare AI** | 🟡 In Progress | ASD screening application for toddlers (Q-Chat-10 dataset) |
-| **FinTech Products** | 🔵 Planning | Digital financial inclusion solutions |
 
 ---
 
@@ -54,7 +45,6 @@ I engineer **intelligent, revenue-generating software** that solves real busines
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ### **AI / Machine Learning**
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
