@@ -57,15 +57,14 @@ I engineer **intelligent, revenue-generating software** that solves real busines
 
 ## 🔥 Featured Work & Expertise
 
-### **Offline-First AI Architecture**
+### **AI Architecture**
 Built production RAG systems with:
 - BM25 + Levenshtein fuzzy matching for retrieval
 - TF-IDF scoring with field weighting
 - Natural language intent classification (Bayes + dynamic boosting)
-- Browser-based ONNX inference (no cloud dependency)
 
 ### **Data Engineering & ML Pipelines**
-- Image processing: Tesseract OCR + ONNX classification
+- Image processing: Tesseract OCR + classification
 - Extractive summarization & text processing
 - Time-series forecasting with statistical models
 - Data pipeline optimization for large datasets
