@@ -11,7 +11,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/innocent1105)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mugwadiinnocent@gmail.com)
 
 </div>
@@ -23,12 +23,10 @@
 I am a software engineer interested in building intelligent, reliable, and scalable systems.
 
 My technical interests include:
-
-- Artificial Intelligence
-- Machine Learning
+- Artificial Intelligence & Machine Learning
 - Full-stack application development
 - Data-driven software systems
-- Efficient model deployment
+- Efficient model deployment & MLOps
 
 I enjoy exploring how software, mathematics, and data can be combined to solve complex problems.
 
@@ -38,17 +36,24 @@ I enjoy exploring how software, mathematics, and data can be combined to solve c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=innocent1105&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocent1105&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=innocent1105&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 
 <br>
 
-<div align="center">
+### 📈 Core Metrics
+| Git Status | Top Languages |
+| :---: | :---: |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=innocent1105&show_icons=true&theme=tokyonight&hide_border=true" /> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocent1105&layout=compact&theme=tokyonight&hide_border=true" /> |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=innocent1105&theme=tokyonight&hide_border=true"/>
+<br>
+
+### 🔥 Contribution Streak & Activity Graph
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=innocent1105&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=innocent1105&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -56,62 +61,50 @@ I enjoy exploring how software, mathematics, and data can be combined to solve c
 
 # ⚙️ Technology Stack
 
-## Languages
+### 🚀 Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
+### 💻 Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
-
----
-
-## Backend & Infrastructure
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-
----
-
-## Artificial Intelligence & Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+### 🧠 Artificial Intelligence & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 # 🧠 Areas of Expertise
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 - Machine Learning models
 - Natural Language Processing
 - AI inference optimization
 - Data preprocessing pipelines
 - Model evaluation and experimentation
 
-### Software Engineering
+### 💻 Software Engineering
 - Full-stack development
 - API design
 - Database architecture
 - Application performance optimization
 - System design
 
-### Data Engineering
+### 📊 Data Engineering
 - Data cleaning and transformation
 - Statistical analysis
 - Time-series modelling
@@ -119,24 +112,11 @@ I enjoy exploring how software, mathematics, and data can be combined to solve c
 
 ---
 
-# 📈 Developer Metrics
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=innocent1105&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
-
----
-
 # 📚 Currently Exploring
-- Deep Learning
-- Large Language Models
-- MLOps
-- Distributed Systems
-- Cloud Architecture
+- Deep Learning & Large Language Models (LLMs)
+- MLOps & Model Deployment Pipelines
+- Distributed Systems & Cloud Architecture
 - Open Source Engineering
-
 
 ---
 
@@ -144,14 +124,7 @@ I enjoy exploring how software, mathematics, and data can be combined to solve c
 
 <div align="center">
 
-Email  
-**mugwadiinnocent@gmail.com**
-
-GitHub  
-**github.com/innocent1105**
-
-X  
-**@imugwadi**
+📬 **Email:** [mugwadiinnocent@gmail.com](mailto:mugwadiinnocent@gmail.com) | 🐙 **GitHub:** [github.com/innocent1105](https://github.com/innocent1105) | 🐦 **X (Twitter):** [@imugwadi](https://x.com/imugwadi)
 
 </div>
 
